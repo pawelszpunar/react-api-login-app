@@ -1,9 +1,7 @@
 import React from 'react';
 
-class Dashboard extends React.Component {
-    render() {
-        return (<p>dashboard</p>);
-    }
-}
+const Dashboard = () => {
+  return <p>Dashboard TODO</p>;
+};
 
 export default Dashboard;
